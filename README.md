@@ -11,4 +11,5 @@ pip install keyboard
 
 pip install pyautogui
 
+Keep the search_terms.txt file in the same folder as the Websearch.py file
 You have to keep the cursor on the search bar because after an update it no longer registers the copy and pasted search items.
