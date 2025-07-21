@@ -1,4 +1,4 @@
-# Auto-Search-for-rewards
+# Websearch
 This is a program in python that I created to automatically search random words in the edge browser to contribute towards the binge search points.
 
 In order for it to work you need to have these external libraries installed:
