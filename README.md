@@ -6,6 +6,7 @@ In order for it to work you need to have these external libraries installed:
 2) keyboard
 
 To install just paste:
+
 pip install keyboard 
 
 pip install pyautogui
