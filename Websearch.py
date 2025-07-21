@@ -18,9 +18,7 @@ print("Please focus the search bar of Microsoft Edge. Press 'q' to quit the scri
 running = True
 
 def paste_random_search():
-
     pyautogui.click()
-
     pyautogui.hotkey('ctrl', 'a')
     pyautogui.press('delete') 
 
